@@ -1,0 +1,13 @@
+*{
+    margin: 10px;
+}
+.cart{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}   
+.cart div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
